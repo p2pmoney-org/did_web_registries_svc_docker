@@ -7,7 +7,7 @@ MAINTAINER P2PMoney <p2pmoney@p2pventure.org>
 # release (e.g. 0.11.0) then build image with
 # a specific tag (e.g. "docker build -t primusfinance/myvc_svc:0.11.0")
 #ARG did_web_registries_svc_tag=0.11.0
-ARG did_web_registries_svc_tag=0.50.50
+ARG did_web_registries_svc_tag=0.50.51
 
 
 #	
